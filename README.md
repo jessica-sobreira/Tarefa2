@@ -17,4 +17,4 @@ npm install prompt-sync
 ````
 
 ## Observações
-Este repositório contém uma série de atividades de programação em JavaScript, organizadas em seções temáticas, que exploram conceitos fundamentais e avançados da linguagem. As soluções foram desenvolvidas com foco em clareza, eficiência e na aplicação de diferentes estruturas de controle, funções de ordem superior e manipulação de dados.
+Este repositório contém uma série de atividades de programação em JavaScript, divididas em três seções: "Estruturas de Controles Avançadas", "Funções e Recursão" e "Arrays e Objetos Complexos".
