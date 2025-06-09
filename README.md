@@ -1,2 +1,20 @@
 # Tarefa2
-Lista de Exercícios 2 - Aplicando conceitos intermediários em JS
+Este repositório contém uma série de exercícios de JavaScript que interagem com o usuário através do console, utilizando a biblioteca prompt-sync.
+
+* **JavaScript:** Linguagem de programação principal.
+* **Node.js:** Ambiente de execução para JavaScript no servidor.
+* **`prompt-sync`:** Biblioteca Node.js para solicitar entrada de dados do usuário de forma assíncrona no terminal.
+
+## Pré-requisitos
+
+Para executar estes exercícios, você precisará ter o Node.js instalado em sua máquina. Você pode baixá-lo e instalá-lo a partir do site oficial: [https://nodejs.org/](https://nodejs.org/)
+
+Além disso, para executar os programas que utilizam a entrada do usuário, você precisará instalar a biblioteca `prompt-async`. Certifique-se de estar no diretório do seu projeto e execute o seguinte comando no seu terminal:
+
+```bash
+npm install prompt-sync
+
+````
+
+## Observações
+Este repositório contém uma série de atividades de programação em JavaScript, organizadas em seções temáticas, que exploram conceitos fundamentais e avançados da linguagem. As soluções foram desenvolvidas com foco em clareza, eficiência e na aplicação de diferentes estruturas de controle, funções de ordem superior e manipulação de dados.
